@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color blue
+color blue_dark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id city_name
+id content
+id date
+id description
+id error_view
+id image
+id progress_bar
+id temperature
+id temperature_list
+id time
+id view_pager
+layout activity_main
+layout fragment_weather
+layout temperature_list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string city_name
+string enter_city_name
+string error
+string error_no_connectivity
+style Theme.MyOpenWeatherApplication
+xml backup_rules
+xml data_extraction_rules

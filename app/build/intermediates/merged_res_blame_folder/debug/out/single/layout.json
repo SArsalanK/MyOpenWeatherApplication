@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/.gradle/daemon/7.3.3/com.conneapp.assessment.myapplication.app-mergeDebugResources-27:/layout/temperature_list_item.xml",
+        "source": "/Users/apple/.gradle/daemon/7.3.3/com.conneapp.assessment.myapplication.app-main-30:/layout/temperature_list_item.xml"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/7.3.3/com.conneapp.assessment.myapplication.app-mergeDebugResources-27:/layout/fragment_weather.xml",
+        "source": "/Users/apple/.gradle/daemon/7.3.3/com.conneapp.assessment.myapplication.app-main-30:/layout/fragment_weather.xml"
+    },
+    {
+        "merged": "com.conneapp.assessment.myapplication.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.conneapp.assessment.myapplication.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/7.3.3/com.conneapp.assessment.myapplication.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "/Users/apple/.gradle/daemon/7.3.3/com.conneapp.assessment.myapplication.app-main-30:/layout/activity_main.xml"
+    }
+]

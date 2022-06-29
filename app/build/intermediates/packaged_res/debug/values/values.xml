@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="blue">@android:color/holo_blue_bright</color>
+    <color name="blue_dark">@android:color/holo_blue_dark</color>
+    <string name="app_name">My Open Weather Application</string>
+    <string name="city_name">"City Name"</string>
+    <string name="enter_city_name">"Enter City Name"</string>
+    <string name="error">"No Data Found!"</string>
+    <string name="error_no_connectivity">"Weak or no Internet Connectivity!"</string>
+    <style name="Theme.MyOpenWeatherApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/blue_dark</item>
+        <item name="colorPrimaryVariant">@color/blue_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
